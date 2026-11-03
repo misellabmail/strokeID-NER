@@ -1,0 +1,9 @@
+False-negative spans missed by at least one model: 328
+Missed by ALL 4 models: 108 (32.9% of the union)
+  by type: {'TMP': 20, 'SYM': 60, 'RF': 18, 'DGN': 10}
+Same count as a share of EACH model's own false negatives:
+  /content/drive/MyDrive/strokeid_revision/runs/m1/seed42: 238 FNs -> 45.4% of them are missed by all 4 models
+  /content/drive/MyDrive/strokeid_revision/runs/m2/seed42: 234 FNs -> 46.2% of them are missed by all 4 models
+  /content/drive/MyDrive/strokeid_revision/runs/m4/seed42: 210 FNs -> 51.4% of them are missed by all 4 models
+  /content/drive/MyDrive/strokeid_revision/runs/m3/seed42: 192 FNs -> 56.2% of them are missed by all 4 models
+  NOTE: say in the paper which denominator is used.

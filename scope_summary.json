@@ -1,0 +1,257 @@
+{
+  "medication_specific": {
+    "mentions": 84,
+    "queries": 49,
+    "pct_queries": 2.8,
+    "top_terms": [
+      [
+        "piracetam",
+        12
+      ],
+      [
+        "clopidogrel",
+        11
+      ],
+      [
+        "amlodipine",
+        9
+      ],
+      [
+        "simvastatin",
+        8
+      ],
+      [
+        "citicoline",
+        6
+      ],
+      [
+        "mecobalamin",
+        4
+      ],
+      [
+        "citicolin",
+        4
+      ],
+      [
+        "amlodipin",
+        4
+      ],
+      [
+        "gabapentin",
+        3
+      ],
+      [
+        "miniaspi",
+        3
+      ],
+      [
+        "aspilet",
+        3
+      ],
+      [
+        "aspirin",
+        2
+      ],
+      [
+        "valsartan",
+        2
+      ],
+      [
+        "neurobion",
+        2
+      ],
+      [
+        "insulin",
+        2
+      ]
+    ]
+  },
+  "medication_generic": {
+    "mentions": 353,
+    "queries": 234,
+    "pct_queries": 13.4,
+    "top_terms": [
+      [
+        "obat",
+        284
+      ],
+      [
+        "herbal",
+        17
+      ],
+      [
+        "suplemen",
+        13
+      ],
+      [
+        "vitamin",
+        12
+      ],
+      [
+        "obatnya",
+        7
+      ],
+      [
+        "suntik",
+        6
+      ],
+      [
+        "jamu",
+        5
+      ],
+      [
+        "infus",
+        4
+      ],
+      [
+        "resep",
+        2
+      ],
+      [
+        "tablet",
+        1
+      ],
+      [
+        "suntikan",
+        1
+      ],
+      [
+        "kapsul",
+        1
+      ]
+    ]
+  },
+  "dosage": {
+    "mentions": 10,
+    "queries": 9,
+    "pct_queries": 0.5,
+    "top_terms": [
+      [
+        "100mg",
+        2
+      ],
+      [
+        "10mg",
+        2
+      ],
+      [
+        "5mg",
+        1
+      ],
+      [
+        "20mg",
+        1
+      ],
+      [
+        "12mg",
+        1
+      ],
+      [
+        "10ml",
+        1
+      ],
+      [
+        "1200mg",
+        1
+      ],
+      [
+        "800g",
+        1
+      ]
+    ]
+  },
+  "procedure": {
+    "mentions": 299,
+    "queries": 212,
+    "pct_queries": 12.2,
+    "top_terms": [
+      [
+        "terapi",
+        83
+      ],
+      [
+        "operasi",
+        72
+      ],
+      [
+        "ct",
+        49
+      ],
+      [
+        "rawat",
+        32
+      ],
+      [
+        "cek",
+        16
+      ],
+      [
+        "mri",
+        12
+      ],
+      [
+        "fisioterapi",
+        11
+      ],
+      [
+        "opname",
+        10
+      ],
+      [
+        "lab",
+        4
+      ],
+      [
+        "eeg",
+        3
+      ],
+      [
+        "ctscan",
+        2
+      ],
+      [
+        "rontgen",
+        2
+      ],
+      [
+        "dsa",
+        1
+      ],
+      [
+        "ekg",
+        1
+      ],
+      [
+        "laboratorium",
+        1
+      ]
+    ]
+  },
+  "negated": {
+    "mentions": 50,
+    "queries": 48,
+    "pct_queries": 2.8,
+    "top_terms": [
+      [
+        "SYM",
+        37
+      ],
+      [
+        "RF",
+        5
+      ],
+      [
+        "DGN",
+        4
+      ],
+      [
+        "TMP",
+        4
+      ]
+    ]
+  },
+  "n_queries": 1742,
+  "medication_specific_label_distribution": {
+    "O": 84
+  }
+}
