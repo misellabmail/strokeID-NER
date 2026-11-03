@@ -1,0 +1,8 @@
+{
+  "model": "gpt-5.4",
+  "k": 0,
+  "seed": 42,
+  "source": "gpt_results.pkl (original zero-shot run, temperature 0)",
+  "macro_f1": 0.6741,
+  "note": "paper reported 0.6682 from an earlier run whose predictions were not kept"
+}
