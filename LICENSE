@@ -1,5 +1,8 @@
 MIT License
 
+The StrokeID-NER dataset (folder data/), annotation guideline (folder guideline/) and model predictions (folder predictions/) are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+The source queries come from the publicly available indonesia-medical-qna dataset (Abid, 2026; https://doi.org/10.57967/hf/8356), which does not carry an explicit licence. They are provided for academic research in line with the platform’s terms of use.
+
 Copyright (c) 2026 Miseri Cordiaz
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
